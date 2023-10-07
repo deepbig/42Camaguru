@@ -1,6 +1,6 @@
 # Camagru
 
-A responsive Single Page Application(SPA) using React & Java
+A responsive Single Page Application(SPA) using React
 
 A Social Network Service(SNS) for sharing pictures like Instagram
 
